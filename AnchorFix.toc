@@ -1,0 +1,7 @@
+## Interface: 120001, 20505
+## Version: 1.0.0
+## Title: Anchor Fix
+## Author: Thoreex
+## X-Curse-Project-ID: 1469754
+
+AnchorFix.lua

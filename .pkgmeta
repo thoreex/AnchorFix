@@ -1,0 +1,6 @@
+package-as: AnchorFix
+
+ignore:
+    - README.md
+
+license-output: LICENSE.md
